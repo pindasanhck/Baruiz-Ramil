@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
   
@@ -174,7 +174,7 @@ blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0
         </b></p>
 
         <p><b>
-	        <span><i>✨amping always huh✨</i></i></span>
+	        <span><i>✨amping always huh✨</i></span>
         </b></p>
         
         <p><b>
