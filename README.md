@@ -1,12 +1,53 @@
 
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Baruiz-Ramil</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Baruiz-Ramil" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://pindasanhck.github.io/Baruiz-Ramil/" />
+<meta property="og:url" content="https://pindasanhck.github.io/Baruiz-Ramil/" />
+<meta property="og:site_name" content="Baruiz-Ramil" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Baruiz-Ramil" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Baruiz-Ramil","name":"Baruiz-Ramil","url":"https://pindasanhck.github.io/Baruiz-Ramil/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Baruiz-Ramil/assets/css/style.css?v=960bf14eecfe45c708ada4649ff4f474acc6366f">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Baruiz-Ramil/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://pindasanhck.github.io/Baruiz-Ramil/">Baruiz-Ramil</a></h1>
+      
+
+      
 <html>
-<meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<meta charset="UTF-8" /><meta content="width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5" name="viewport" /><meta content="IE=edge" http-equiv="X-UA-Compatible" />
   
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Sono:wght@600&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Nerko+One&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&amp;display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sono:wght@600&amp;display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Nerko+One&amp;display=swap" rel="stylesheet" />
 
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
   <script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script><!--<link href="https://feeldreams.github.io/thisyou/style.css" rel="stylesheet" type="text/css" />-->
@@ -14,15 +55,15 @@
   
 <head>
 <title>Script HTML buat Kamu</title>
-<link rel="icon" type="image/x-icon" href="https://www.palingit.com/favicon.ico">
-<meta name="description" content="HTML Replit Coding">
+<link rel="icon" type="image/x-icon" href="https://www.palingit.com/favicon.ico" />
+<meta name="description" content="HTML Replit Coding" />
 <!-- 
   Made with love by Rayys!
   
      Blog: https://PalingIT.com
-     Instagram: @rayyarrr
-     TikTok: @rayy4r
-     Email: rayyar0703@gmail.com
+     Instagram: ?
+     TikTok: @Ramilhshs
+     Email:Ramilguhao22@gmail.com
      
   Thanks to all <3
 -->
@@ -128,49 +169,49 @@ blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0
    <audio src="https://feeldreams.github.io/everything.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
-     <!-- Wallpaper --><img src="https://feeldreams.github.io/nightin.jpeg" id="wallpaper"/>
+     <!-- Wallpaper --><img src="https://feeldreams.github.io/nightin.jpeg" id="wallpaper" />
    </div>
    
-   <div id='Content'>
+   <div id="Content">
 
      <div id="ftAwal">
        <!-- Stiker Pembuka -->
-       <img src="https://feeldreams.github.io/pandaputih.gif" id="ftoAwal"/>
+       <img src="https://feeldreams.github.io/pandaputih.gif" id="ftoAwal" />
      </div>
 
      <div id="loveIn">
-       <!-- Tombol LOVE --><label class='lovein'>❤️</label>
+       <!-- Tombol LOVE --><label class="lovein">❤️</label>
      </div>
      <p id="ket">Ramil Baruiz!</p>
 
-     <div><marquee id="imglewat" direction="left"><img id="fotonimasi" src="" width="100px" height="100px"/></marquee></div>
+     <div><marquee id="imglewat" direction="left"><img id="fotonimasi" src="" width="100px" height="100px" /></marquee></div>
      
      <div class="kumpulanstiker">
          <!-- Stiker untuk Konten -->
-         <img src="https://feeldreams.github.io/pandapintu.gif" id="fotostiker"/>
-         <img src="https://feeldreams.github.io/g5.gif" id="fotostiker1"/>
-         <img src="https://feeldreams.github.io/heart.png" id="fotostikerA"/>
+         <img src="https://feeldreams.github.io/pandapintu.gif" id="fotostiker" />
+         <img src="https://feeldreams.github.io/g5.gif" id="fotostiker1" />
+         <img src="https://feeldreams.github.io/heart.png" id="fotostikerA" />
        
          <!-- Stiker Jalan -->
-         <img src="https://feeldreams.github.io/peachgendong.gif" id="stikernimasi"/>
+         <img src="https://feeldreams.github.io/peachgendong.gif" id="stikernimasi" />
      </div>
      
-     <div><div id='pergeseran'>
+     <div><div id="pergeseran">
      	
         <p><b>
 	        <span id="inihalo"></span>
         </b></p>
         
         <p><b>
-	        <span>hi crush, unta e crushback pdt ko nimo</span>
+	        <span>ikw rjd akoa pero wla nkoy mahimo kay ni biya man ka sayang kayu ang 6months dai☹️</span></span>
         </b></p>
 
         <p><b>
-	        <span>hmmm okay rapdt og dle, dle nalang tika pugson🙂</span>
+	        <span>kung kabalo lang ka sakong g bati na nag bulag ta cge rkog hilak taga gabie,😭</span>
         </b></p>
 
         <p><b>
-	        <span>♥️labyuuu always crush mwaa😘</span>
+	        <span>if mo balik man gani ka huna hunaa jd ha,kabalo ko nasakitan ka ako pd unta dawat na nimo imong desesyon, basin makig balik ka kay napugos rka,😢</span>
         </b></p>
 
         <p><b>
@@ -178,15 +219,15 @@ blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0
         </b></p>
         
         <p><b>
-	        <span>Ilove you crush 🤍 
+	        <span>Ilove you luvv 🤍 
 	        by:Ramil</span>
         </b></p>
        
      </div></div>
 
-     <p id="ketgeser">pindota sa ubos amaw!</p>
+     <p id="ketgeser">click here!</p>
 
-     <div><blockquote id='bq'>
+     <div><blockquote id="bq">
        <p id="halo" class="halo"></p>
        <p id="kalimat"></p>
        
@@ -206,11 +247,11 @@ blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0
 
   async function inipesan(){
        var { value: nama } = await swals.fire({
-           title: 'kinsay pangalan nimo?', input: 'text',
+           title: 'Name mo?', input: 'text',
        });
        if(nama && nama.length < 11){
          window.nama = nama;
-         inihalo.innerHTML = "Hi, " + nama + " crush gdt tika✨";
+         inihalo.innerHTML = "Hi, " + nama + " balik na please✨";
          mulainama();
          } else {
            await swals.fire('Ups!', 'taronga ug butang sa imong pangalan');inipesan();
@@ -358,4 +399,12 @@ blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0
 <!--<script src="https://feeldreams.github.io/thisyou/script.js"></script>-->
 <!-- Sampai Sini -->
 </body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
